@@ -13,8 +13,10 @@
     "url": "https://github.com/fth-ship/glia.git",
     "main": "./lib/index.js",
     "dependencies": {
-        "basalt": "*",
-        "winston": "*"
+        "bson": "*",
+        "winston": "*",
+        "snappy": "*",
+        "underscore": "*"
     },
     "devDependencies": {
         "should": "*"    
